@@ -6,7 +6,7 @@ import os
 sys.path.insert(
     0,
     os.path.abspath(
-        os.path.join(os.path.dirname(__file__), "..", "Day-1")
+        os.path.join(os.path.dirname(__file__), "..", "Day_1")
     )
 )
 
